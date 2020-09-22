@@ -1,0 +1,8 @@
+<h1>Heroes Marvel Y DC</h1>
+<hr>
+<div class="card-columns animated fadeIn fast">
+    <!-- (heroeSeleccionado)="verHeroeParend($event)" se le agrega a la etiqueta cuando un hijo ahace un evento de llamado(emit) -->
+    <app-heroe-tarjeta [heroeChild]="heroe" [indexChild]="i" *ngFor='let heroe of heroes; let i=index;'>
+    </app-heroe-tarjeta>
+
+</div>

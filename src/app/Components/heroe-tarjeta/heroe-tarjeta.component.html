@@ -1,0 +1,13 @@
+<div class="card">
+    <img class="card-img-top img-fluid" src="{{ heroeChild.img }}" alt="">
+    <div class="card-body">
+        <h2 class="card-title">{{ heroeChild.nombre  }}</h2>
+        <p class="card-text">{{ heroeChild.bio }}</p>
+        <p class="card-text text-muted"><small>Casa: {{ heroeChild.casa }} / {{ heroeChild.aparicion }}</small></p>
+        <!-- ?Segunda forma de ir a otra ruta de pagina  -->
+        <button (click)='verHeroe(indexChild)' type="button" class="btn btn-outline-success btn-block">Ver Héroe
+            ...</button>
+        <!-- ?Primera forma de ir a otra ruta de pagina -->
+        <!-- <a [routerLink]="['/heroe',i]" class="btn btn-outline-success">Ver Heroe</a> -->
+    </div>
+</div>
