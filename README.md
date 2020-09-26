@@ -4,25 +4,25 @@
 
  `/home`
  
-![image](https://user-images.githubusercontent.com/71657821/94331442-fbea5280-ff91-11ea-8940-c263ed469ed5.png)
+![image](https://user-images.githubusercontent.com/71657821/94331881-c5aed200-ff95-11ea-817a-f4367317e4ba.png)
 
 ## List heros
 
 `/heroes`
 
-![image](https://user-images.githubusercontent.com/71657821/94331524-b5492800-ff92-11ea-8a29-1ea61e58c1ef.png)
+![image](https://user-images.githubusercontent.com/71657821/94331896-e119dd00-ff95-11ea-98cb-b238443f54df.png)
 
 ## See hero 
 
 `/heroe/{id}`
 
-![image](https://user-images.githubusercontent.com/71657821/94331543-dad63180-ff92-11ea-9a48-bbd72d3c19e0.png)
+![image](https://user-images.githubusercontent.com/71657821/94331901-f4c54380-ff95-11ea-8840-70b052300ea3.png)
 
 ## Search hero 
 
  `/heroeFind/{word}`
  
-![image](https://user-images.githubusercontent.com/71657821/94331567-0e18c080-ff93-11ea-9ad8-213630385fbd.png)
+![image](https://user-images.githubusercontent.com/71657821/94331915-19212000-ff96-11ea-87a3-4837a29c9568.png)
 
 
 
