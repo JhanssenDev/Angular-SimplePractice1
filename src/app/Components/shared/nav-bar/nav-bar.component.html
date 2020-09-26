@@ -15,7 +15,7 @@
                 <a class="nav-link" [routerLink]="['/home']">Home</a>
             </li>
             <li class="nav-item" routerLinkActive='active'>
-                <a class="nav-link " [routerLink]="['/heroes']">Heroes</a>
+                <a class="nav-link " [routerLink]="['/heroes']">Heros</a>
             </li>
             <li class="nav-item" routerLinkActive='active myOtroEstilo'>
                 <a class="nav-link" [routerLink]="['/about']">About</a>
@@ -23,7 +23,7 @@
         </ul>
         <div class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" (keyup.enter)='buscarHeroe(buscarTexto.value)' type="text"
-                placeholder="Buscar Heroe" #buscarTexto>
+                placeholder="Search Hero" #buscarTexto>
             <button (click)="buscarHeroe(buscarTexto.value)" class="btn btn-outline-success my-2 my-sm-0"
                 type="button">Buscar</button>
         </div>

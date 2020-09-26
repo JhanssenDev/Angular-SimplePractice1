@@ -1,4 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  background: #12c2e9;  
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); 
+
+}
 
 .animated {
     -webkit-animation-duration: 1s;
