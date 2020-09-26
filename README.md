@@ -1,27 +1,33 @@
+# SPA My heros
+
+## Home 
+
+ `/home`
+ 
+![image](https://user-images.githubusercontent.com/71657821/94331881-c5aed200-ff95-11ea-817a-f4367317e4ba.png)
+
+## List heros
+
+`/heroes`
+
+![image](https://user-images.githubusercontent.com/71657821/94331896-e119dd00-ff95-11ea-98cb-b238443f54df.png)
+
+## See hero 
+
+`/heroe/{id}`
+
+![image](https://user-images.githubusercontent.com/71657821/94331901-f4c54380-ff95-11ea-8840-70b052300ea3.png)
+
+## Search hero 
+
+ `/heroeFind/{word}`
+ 
+![image](https://user-images.githubusercontent.com/71657821/94331915-19212000-ff96-11ea-87a3-4837a29c9568.png)
+
+
+
+
 # Spa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
